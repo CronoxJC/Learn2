@@ -7,4 +7,7 @@
 - [X] Pollo sin plumas 3
 - [X] Pollo sin plumas 4
 - [X] Pollo sin plumas 5
+- [X] Pollo sin plumas 6
+- [X] Pollo sin plumas 7
+- [X] Pollo sin plumas 8
 
