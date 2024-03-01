@@ -2,4 +2,5 @@
 
 ## Cambios 
 
-- [X] Pollo sin plumas
+- [X] Pollo sin plumas 1
+- [X] Pollo sin plumas 2
